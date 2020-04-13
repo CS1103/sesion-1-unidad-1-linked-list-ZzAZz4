@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/esteban/Desktop/POO_II/untitled/linked_list.h
+cstdio
+-
+cassert
+-
+macros.h
+/home/esteban/Desktop/POO_II/untitled/macros.h
+node.h
+/home/esteban/Desktop/POO_II/untitled/node.h
+
+/home/esteban/Desktop/POO_II/untitled/macros.h
+
+/home/esteban/Desktop/POO_II/untitled/main.cpp
+linked_list.h
+/home/esteban/Desktop/POO_II/untitled/linked_list.h
+
+/home/esteban/Desktop/POO_II/untitled/node.h
+iostream
+-
+macros.h
+/home/esteban/Desktop/POO_II/untitled/macros.h
+
